@@ -6,7 +6,7 @@
 Click on your desired category, open the **raw** file, and copy the file's URL. Or simply copy the URL from here.
 Open **Hydra**, navigate to **Settings**, then to **Download Sources**. Click **Add Source**, paste the copied link, click **Validate**, then **Import**. Done!
 
-[JC141 Torrents](https://raw.githubusercontent.com/ShimizuMimi/jc141-hydra-links/refs/heads/main/jc141.json)
+[JC141 Torrents](https://raw.githubusercontent.com/ShimizuMimi/jc141-hydra-links/main/jc141.json)
 
 ## Português
 ### Uso
@@ -14,7 +14,7 @@ Open **Hydra**, navigate to **Settings**, then to **Download Sources**. Click **
 Clique na categoria desejada, abra o arquivo **raw** e copie o URL do arquivo. Ou simplesmente copie o URL daqui.
 Abra o **Hydra**, vá para **Configurações**, depois para **Fontes de Download**. Clique em **Adicionar Fonte**, cole o link copiado, clique em **Validar**, depois em **Importar**. Pronto!
 
-[JC141 Torrents](https://raw.githubusercontent.com/ShimizuMimi/jc141-hydra-links/refs/heads/main/jc141.json)
+[JC141 Torrents](https://raw.githubusercontent.com/ShimizuMimi/jc141-hydra-links/main/jc141.json)
 
 
 ## Example JSON Structure
